@@ -1,0 +1,22 @@
+[
+  { "currency": "United States Dollar", "code": "USD", "symbol": "$" },
+  { "currency": "Euro", "code": "EUR", "symbol": "€" },
+  { "currency": "British Pound Sterling", "code": "GBP", "symbol": "£" },
+  { "currency": "Japanese Yen", "code": "JPY", "symbol": "¥" },
+  { "currency": "Australian Dollar", "code": "AUD", "symbol": "A$" },
+  { "currency": "Canadian Dollar", "code": "CAD", "symbol": "C$" },
+  { "currency": "Swiss Franc", "code": "CHF", "symbol": "CHF" },
+  { "currency": "Chinese Yuan Renminbi", "code": "CNY", "symbol": "¥" },
+  { "currency": "Swedish Krona", "code": "SEK", "symbol": "kr" },
+  { "currency": "New Zealand Dollar", "code": "NZD", "symbol": "NZ$" },
+  { "currency": "Mexican Peso", "code": "MXN", "symbol": "$" },
+  { "currency": "Singapore Dollar", "code": "SGD", "symbol": "S$" },
+  { "currency": "Hong Kong Dollar", "code": "HKD", "symbol": "HK$" },
+  { "currency": "Norwegian Krone", "code": "NOK", "symbol": "kr" },
+  { "currency": "South Korean Won", "code": "KRW", "symbol": "₩" },
+  { "currency": "Turkish Lira", "code": "TRY", "symbol": "₺" },
+  { "currency": "Russian Ruble", "code": "RUB", "symbol": "₽" },
+  { "currency": "Indian Rupee", "code": "INR", "symbol": "₹" },
+  { "currency": "Brazilian Real", "code": "BRL", "symbol": "R$" },
+  { "currency": "South African Rand", "code": "ZAR", "symbol": "R" }
+]
